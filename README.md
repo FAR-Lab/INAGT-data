@@ -5,8 +5,8 @@ The Is Now a Good Time (INAGT) dataset consists of automotive, physiological, an
 
 ## Data
 - 1915 samples across 46 drivers during a 28.5 km route
-- Yes | No annotations from drivers if it is a good or bad time to interact
-- 3rd part rating of Safe | Unsafe moments (from MTurk raters)
+- Yes / No annotations from drivers if it is a good or bad time to interact
+- 3rd part rating of Safe / Unsafe moments (from MTurk raters)
 - Road video, driver face video, driver side video, and driver over shoulder video
 - Automotive data (CAN) from 2015 Toyota Prius
 - Physiological data from driver
