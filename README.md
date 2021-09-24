@@ -21,11 +21,11 @@ The Is Now a Good Time (INAGT) dataset consists of automotive, physiological, an
 The dataset is available for research use. Interesed parties will need to have IRB approval to use the data. Please fill out our [dataset request form](https://forms.gle/SNCH4YCy79JL5VZH8) to get in contact with us about downloading the full dataset. 
 
 ## Related Research
-1. Rob Semmens, Nikolas Martelaro, Pushyami Kaveti, Simon Stent, and Wendy Ju. 2019. Is Now A Good Time? An Empirical Study of Vehicle-Driver Communication Timing. In <i>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems</i> (<i>CHI '19</i>). Association for Computing Machinery, New York, NY, USA, Paper 637, 1–12. DOI:https://doi.org/10.1145/3290605.3300867
+Rob Semmens, Nikolas Martelaro, Pushyami Kaveti, Simon Stent, and Wendy Ju. 2019. Is Now A Good Time? An Empirical Study of Vehicle-Driver Communication Timing. In <i>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems</i> (<i>CHI '19</i>). Association for Computing Machinery, New York, NY, USA, Paper 637, 1–12. DOI:https://doi.org/10.1145/3290605.3300867
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/AHhaJ4DMoV8/0.jpg)](http://www.youtube.com/watch?v=AHhaJ4DMoV8 "Is Now A Good Time? An Empirical Study of Vehicle-Driver Communication Timing")
 
-2. Tong Wu, Nikolas Martelaro, Simon Stent, Jorge Ortiz, and Wendy Ju. 2021. Learning When Agents Can Talk to Drivers Using the INAGT Dataset and Multisensor Fusion. <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i> 5, 3, Article 133 (Sept 2021), 28 pages. DOI:https://doi.org/10.1145/3478125
+Tong Wu, Nikolas Martelaro, Simon Stent, Jorge Ortiz, and Wendy Ju. 2021. Learning When Agents Can Talk to Drivers Using the INAGT Dataset and Multisensor Fusion. <i>Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.</i> 5, 3, Article 133 (Sept 2021), 28 pages. DOI:https://doi.org/10.1145/3478125
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/1bOl--Lsjbs/0.jpg)](http://www.youtube.com/watch?v=1bOl--Lsjbs "Learning When Agents Can Talk to Drivers Using the INAGT Dataset and Multisensor Fusion")
 
