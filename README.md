@@ -15,6 +15,8 @@ The Is Now a Good Time (INAGT) dataset consists of automotive, physiological, an
 - Pre-computed facial landmarks (via OpenPose)
 - Pre-computed side body pose (via OpenPose)
 
+[Sample data from participants 40 and 76](https://drive.google.com/drive/folders/1HwHeOLscfIPqvY04ezRSmqfggp_NSlve?usp=sharing)
+
 ## Requesting Data
 The dataset is available for research use. Interesed parties will need to have IRB approval to use the data. Please fill out our [dataset request form](https://forms.gle/SNCH4YCy79JL5VZH8) to get in contact with us about downloading the full dataset. 
 
