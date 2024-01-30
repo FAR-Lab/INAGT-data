@@ -4,7 +4,7 @@
 The Is Now a Good Time (INAGT) dataset consists of automotive, physiological, and visual data collected from drivers who self-annotated responses to the question "Is now a good time?" indicating the opportunity to receive non-driving information during a 50-minute drive. We augment this original driver-annotated data with third-party annotations of perceived safety to explore potential driver overconfidence. The dataset includes data from 46 drivers and 1915 samples.
 
 ## Data
-- 1915 samples across 46 drivers during a 28.5 km route
+- 1915 samples across 45 drivers during a 28.5 km route
 - Yes / No annotations from drivers if it is a good or bad time to interact
 - 3rd part rating of Safe / Unsafe moments (from MTurk raters)
 - Road video, driver face video, driver side video, and driver over shoulder video
