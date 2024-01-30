@@ -9,7 +9,7 @@ The Is Now a Good Time (INAGT) dataset consists of automotive, physiological, an
 - 3rd part rating of Safe / Unsafe moments (from MTurk raters)
 - Road video, driver face video, driver side video, and driver over shoulder video
 - Automotive data (CAN) from a 2015 Toyota Prius
-- Physiological data from driver
+- Physiological data from the driver
 - Pre-computed road object detection (via I3D Inception V1)
 - Pre-computed Font body pose (via OpenPose)
 - Pre-computed facial landmarks (via OpenPose)
@@ -17,8 +17,11 @@ The Is Now a Good Time (INAGT) dataset consists of automotive, physiological, an
 
 [Sample data from participants 40 and 76](https://drive.google.com/drive/folders/1HwHeOLscfIPqvY04ezRSmqfggp_NSlve?usp=sharing)
 
-## Requesting Data
-The dataset is available for research use. Interested parties will need to have IRB approval and/or agree to our Data Use Agreement to use the data. Please fill out our [dataset request form](https://forms.gle/SNCH4YCy79JL5VZH8) to get in contact with us about downloading the full dataset.
+## Public Dataset
+We provide an anonymized, publically available dataset where participant videos have been blurred and pre-computed video data (i.e., road objects, body bose, facial landmarks) is provided for 6 seconds before and 6 seconds after each "Is Now A Good Time?" query. The dataset is provided as-is and without warranty of any kind. If you use the data in your work, please see the Recommended Citation Guidelines below to cite and acknowledge.
+
+## Requesting the Full Dataset
+The full, non-anonymized dataset is available for research use. Interested parties must have IRB approval and/or agree to our Data Use Agreement to use the data. Please fill out our [dataset request form](https://forms.gle/SNCH4YCy79JL5VZH8) to get in contact with us about downloading the full dataset. The dataset is provided as-is and without warranty of any kind. If you use the data in your work, please see the Recommended Citation Guidelines below to cite and acknowledge.
 
 ## Related Research
 Rob Semmens, Nikolas Martelaro, Pushyami Kaveti, Simon Stent, and Wendy Ju. 2019. Is Now A Good Time? [**An Empirical Study of Vehicle-Driver Communication Timing.**](https://dl.acm.org/doi/10.1145/3290605.3300867) In <i>Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems</i> (<i>CHI '19</i>). Association for Computing Machinery, New York, NY, USA, Paper 637, 1–12. DOI:[https://doi.org/10.1145/3290605.3300867](https://doi.org/10.1145/3290605.3300867)
