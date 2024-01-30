@@ -1,10 +1,10 @@
 # Is Now a Good Time? Dataset
 
 ## Overview
-The Is Now a Good Time (INAGT) dataset consists of automotive, physiological, and visual data collected from drivers who self-annotated responses to the question "Is now a good time?" indicating the opportunity to receive non-driving information during a 50-minute drive. We augment this original driver-annotated data with third-party annotations of perceived safety to explore potential driver overconfidence. The dataset includes data from 46 drivers and 1915 samples.
+The Is Now a Good Time (INAGT) dataset consists of automotive, physiological, and visual data collected from drivers who self-annotated responses to the question "Is now a good time?" indicating the opportunity to receive non-driving information during a 50-minute drive. We augment this original driver-annotated data with third-party annotations of perceived safety to explore potential driver overconfidence. The dataset includes data from up to 61 drivers.
 
 ## Data
-- 1915 samples across 45 drivers during a 28.5 km route
+- 1915 samples across 46 drivers during a 28.5 km route
 - Yes / No annotations from drivers if it is a good or bad time to interact
 - 3rd part rating of Safe / Unsafe moments (from MTurk raters)
 - Road video, driver face video, driver side video, and driver over shoulder video
@@ -18,7 +18,7 @@ The Is Now a Good Time (INAGT) dataset consists of automotive, physiological, an
 [Sample data from participants 40 and 76](https://drive.google.com/drive/folders/1HwHeOLscfIPqvY04ezRSmqfggp_NSlve?usp=sharing)
 
 ## Public Dataset
-We provide an [anonymized, publicly available dataset](https://drive.google.com/drive/folders/1oUHbDxtqhKISYrlL3k1aJxPi3cMWVmch?usp=sharing) where participant videos have been blurred and pre-computed video data (i.e., road objects, body pose, facial landmarks) is provided for 6 seconds before and 6 seconds after each "Is Now A Good Time?" query. The dataset is provided as-is and without warranty of any kind. If you use the data in your work, please take a look at the Recommended Citation Guidelines below to cite and acknowledge.
+We provide an [anonymized, publicly available dataset](https://purl.stanford.edu/gj863qr6417) where 61 participant videos have been blurred and pre-computed video data (i.e., road objects, body pose, facial landmarks) is provided for 6 seconds before and 6 seconds after each "Is Now A Good Time?" query. The dataset is provided as-is and without warranty of any kind. If you use the data in your work, please take a look at the Recommended Citation Guidelines below to cite and acknowledge.
 
 ## Requesting the Full Dataset
 The full, non-anonymized dataset is available for research use. Interested parties must have IRB approval and/or agree to our Data Use Agreement to use the data. Please fill out our [dataset request form](https://forms.gle/SNCH4YCy79JL5VZH8) to contact us about downloading the full dataset. The dataset is provided as-is and without warranty of any kind. If you use the data in your work, please take a look at the Recommended Citation Guidelines below to cite and acknowledge.
